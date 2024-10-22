@@ -1,0 +1,27 @@
+body {
+      background-color: white;
+}
+
+.container {
+            width: 195px;
+            height: 245px;
+            background-color: black;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-top: 150px;
+            margin-left: 500px;
+}
+
+.calculator {
+             padding: 30px;
+             border-radius: 10px;
+             font-size: 5px;
+}
+
+.calculator form input {
+                        margin: 9px;
+                        margin-left: 10px;
+}
+
+
